@@ -13,7 +13,7 @@ export class HomePage {
 
   myImage = null;
 
-  serverURL = 'https://someServerUrl.com/imageUplaod'
+  serverURL = 'https://nftagapi.yaze.live/index.php?action=UploadImage'
 
   constructor(
     private http: HttpClient,
