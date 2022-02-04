@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'imgUplaod',
+  appId: 'com.saqib.testapp',
+  appName: 'Auto Update Demo App',
   webDir: 'www',
   bundledWebRuntime: false
 };
